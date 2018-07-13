@@ -1,0 +1,9 @@
+C:\Users\최일선\source\repos\CheatEngineBotStep2\CheatEngineBotStep2\bin\Release\CheatEngineBotStep2.exe.config
+C:\Users\최일선\source\repos\CheatEngineBotStep2\CheatEngineBotStep2\bin\Release\CheatEngineBotStep2.exe
+C:\Users\최일선\source\repos\CheatEngineBotStep2\CheatEngineBotStep2\bin\Release\CheatEngineBotStep2.pdb
+C:\Users\최일선\source\repos\CheatEngineBotStep2\CheatEngineBotStep2\obj\Release\CheatEngineBotStep2.Form1.resources
+C:\Users\최일선\source\repos\CheatEngineBotStep2\CheatEngineBotStep2\obj\Release\CheatEngineBotStep2.Properties.Resources.resources
+C:\Users\최일선\source\repos\CheatEngineBotStep2\CheatEngineBotStep2\obj\Release\CheatEngineBotStep2.csproj.GenerateResource.Cache
+C:\Users\최일선\source\repos\CheatEngineBotStep2\CheatEngineBotStep2\obj\Release\CheatEngineBotStep2.csproj.CoreCompileInputs.cache
+C:\Users\최일선\source\repos\CheatEngineBotStep2\CheatEngineBotStep2\obj\Release\CheatEngineBotStep2.exe
+C:\Users\최일선\source\repos\CheatEngineBotStep2\CheatEngineBotStep2\obj\Release\CheatEngineBotStep2.pdb
